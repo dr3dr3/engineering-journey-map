@@ -7,7 +7,7 @@
 
     "workspaceFolder": "/workspace",
 
-    "postCreateCommand": "gum style --foreground 003 --border-foreground 003 --border rounded --align center --width 50 --margin '1 2' --padding '2 4' 'André Dreyer' 'AI Agents & Coding'",
+    "postCreateCommand": "gum style --foreground 003 --border-foreground 003 --border rounded --align center --width 50 --margin '1 2' --padding '2 4' 'André Dreyer' 'Engineering Journey Map'",
 
     "customizations": {
         "vscode": {
@@ -17,9 +17,7 @@
                 "github.vscode-pull-request-github",
                 "ms-azuretools.vscode-docker",
                 "github.copilot",
-                "Anthropic.claude-code",
-                "Continue.continue",
-                "saoudrizwan.claude-dev"
+                "Anthropic.claude-code"
             ],
             "settings": {
                 "editor.fontFamily": "FiraCode Nerd Font, monospace",
