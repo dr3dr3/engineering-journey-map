@@ -1,0 +1,1 @@
+To progress from the current state to the desired future state requires a series of iterative steps to be taken, as opposed to a giant leap. Therefore, they act as a constraint on getting to the desired state, by limiting the actions that are feasible and realistic to take now.

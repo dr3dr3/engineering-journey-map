@@ -1,0 +1,1 @@
+Provide suggestions for retrospectives we can ask engineering teams to do that will help provide feedback into the Engineering Journey Maps, specifically help identify pain points, where there is friction, opportunities where platform engineering can help improve things, and what the platform engineering team should focus on as a priority

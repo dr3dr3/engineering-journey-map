@@ -1,0 +1,3 @@
+Create a new markdown document that takes the priorities and puts it into a 2x2 matrix with "push" on the X axis (high priority at top to low priority at bottom) and "pull" and the y axis (high priority at right side and low priority to left). If an item is not listed in either, then consider it rated as a low priority.
+
+Create this 2x2 matrix as a chart in a SVG file, with a legend for jobs to be done
