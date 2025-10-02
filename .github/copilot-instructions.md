@@ -8,9 +8,9 @@ This is a structured project to create an Engineering Journey Map for platform e
 
 ## Task Organization
 
-- **Main Plan**: `PLAN.md` - High-level overview and phase structure
-- **AI Tasks**: `tasks/ai-tasks.md` - Detailed instructions for AI assistants
-- **Human Tasks**: `tasks/human-tasks.md` - Tasks requiring human input and review
+- **Main Plan**: `PLAN.md` - High-level overview and specific tasks for each phase
+- **Task Details**: `tasks/` - Detailed instructions for each AI task, linked from PLAN.md
+- **Context Guides**: `context-guides/` - Background information and best practices
 
 ## Current Project Structure
 
@@ -39,7 +39,7 @@ engineering-journey-map/
 When working on this project:
 
 1. **Always check the current phase** by reviewing completed tasks in `PLAN.md`
-2. **Use the detailed task instructions** in `tasks/ai-tasks.md` for specific requirements
+2. **Use the detailed task instructions** in `tasks/` for specific requirements
 3. **Follow the folder structure** and naming conventions specified in tasks
 4. **Use context from previous phases** as specified in task instructions
 5. **Create concise, actionable content** that serves the platform engineering use case
@@ -48,7 +48,6 @@ When working on this project:
 
 Before starting any task, review these key files:
 - `PLAN.md` - Current progress and next tasks
-- `tasks/ai-tasks.md` - Detailed task instructions
 - Relevant context guides in `context-guides/` folder
 - Previous phase outputs as specified in task instructions
 
@@ -80,10 +79,9 @@ Before completing any task:
 
 1. Check `PLAN.md` to see current progress
 2. Identify the next uncompleted AI task
-3. Review the detailed instructions in `tasks/ai-tasks.md`
-4. Gather required context from previous phases
-5. Create the specified files with required content
-6. Update task completion status in `PLAN.md`
+3. Gather required context from previous phases
+4. Create the specified files with required content
+5. Update task completion status in `PLAN.md`
 
 ## Common Patterns
 

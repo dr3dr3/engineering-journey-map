@@ -1,0 +1,12 @@
+# Private context files
+context-private/
+
+# Common ignore patterns
+.DS_Store
+.vscode/
+*.log
+node_modules/
+.env
+.env.local
+*.tmp
+*.temp
